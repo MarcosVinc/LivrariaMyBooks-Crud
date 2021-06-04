@@ -1,0 +1,18 @@
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\Livraria My Books.exe
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\Livraria My Books.deps.json
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\Livraria My Books.runtimeconfig.json
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\Livraria My Books.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\Livraria My Books.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\ref\Livraria My Books.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\Livraria My Books.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria_My_Books.Form1.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.csproj.GenerateResource.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\ref\Livraria My Books.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.genruntimeconfig.cache
