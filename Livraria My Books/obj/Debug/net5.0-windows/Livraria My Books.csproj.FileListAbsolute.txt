@@ -6,7 +6,6 @@ C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\ref\Livraria My Books.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\Livraria My Books.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.csprojAssemblyReference.cache
-C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria_My_Books.Form1.resources
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.csproj.GenerateResource.cache
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.AssemblyInfoInputs.cache
@@ -16,3 +15,5 @@ C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\ref\Livraria My Books.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.genruntimeconfig.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria_My_Books.TelaLogin.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria_My_Books.TelaLoginCadastro.resources

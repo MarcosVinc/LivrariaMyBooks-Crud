@@ -1,7 +1,7 @@
 ﻿
 namespace Livraria_My_Books
 {
-    partial class Form1
+    partial class TelaLogin
     {
         /// <summary>
         ///  Required designer variable.
@@ -33,87 +33,102 @@ namespace Livraria_My_Books
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
-            this.btCriar = new System.Windows.Forms.Button();
-            this.btRecSenha = new System.Windows.Forms.Button();
             this.btEntrar = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.ChamadaDeTelaCadastroLogin = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 90);
+            this.label1.Location = new System.Drawing.Point(21, 93);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(47, 15);
+            this.label1.Size = new System.Drawing.Size(40, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Usuario";
+            this.label1.Text = "Login:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 130);
+            this.label2.Location = new System.Drawing.Point(21, 142);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(39, 15);
+            this.label2.Size = new System.Drawing.Size(42, 15);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Senha";
+            this.label2.Text = "Senha:";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(65, 82);
+            this.textBox1.Location = new System.Drawing.Point(67, 85);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(238, 23);
+            this.textBox1.Size = new System.Drawing.Size(255, 23);
             this.textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(65, 122);
+            this.textBox2.Location = new System.Drawing.Point(67, 134);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(238, 23);
+            this.textBox2.Size = new System.Drawing.Size(255, 23);
             this.textBox2.TabIndex = 3;
-            // 
-            // btCriar
-            // 
-            this.btCriar.Location = new System.Drawing.Point(256, 202);
-            this.btCriar.Name = "btCriar";
-            this.btCriar.Size = new System.Drawing.Size(84, 28);
-            this.btCriar.TabIndex = 4;
-            this.btCriar.Text = "Criar conta";
-            this.btCriar.UseVisualStyleBackColor = true;
-            // 
-            // btRecSenha
-            // 
-            this.btRecSenha.Location = new System.Drawing.Point(12, 202);
-            this.btRecSenha.Name = "btRecSenha";
-            this.btRecSenha.Size = new System.Drawing.Size(158, 28);
-            this.btRecSenha.TabIndex = 5;
-            this.btRecSenha.Text = "Recuperar a senha";
-            this.btRecSenha.UseVisualStyleBackColor = true;
             // 
             // btEntrar
             // 
-            this.btEntrar.Location = new System.Drawing.Point(232, 12);
+            this.btEntrar.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btEntrar.Location = new System.Drawing.Point(123, 198);
             this.btEntrar.Name = "btEntrar";
-            this.btEntrar.Size = new System.Drawing.Size(108, 40);
+            this.btEntrar.Size = new System.Drawing.Size(126, 43);
             this.btEntrar.TabIndex = 6;
             this.btEntrar.Text = "Entrar";
             this.btEntrar.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(92, 323);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(111, 15);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Esqueceu a senha ? ";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI Black", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
+            this.label4.Location = new System.Drawing.Point(204, 323);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(76, 15);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "Clique aqui";
+            // 
+            // ChamadaDeTelaCadastroLogin
+            // 
+            this.ChamadaDeTelaCadastroLogin.AutoSize = true;
+            this.ChamadaDeTelaCadastroLogin.Location = new System.Drawing.Point(222, 164);
+            this.ChamadaDeTelaCadastroLogin.Name = "ChamadaDeTelaCadastroLogin";
+            this.ChamadaDeTelaCadastroLogin.Size = new System.Drawing.Size(100, 15);
+            this.ChamadaDeTelaCadastroLogin.TabIndex = 9;
+            this.ChamadaDeTelaCadastroLogin.Text = "Cadastrar Usuario";
+            this.ChamadaDeTelaCadastroLogin.Click += new System.EventHandler(this.ChamadaDeTelaCadastroLogin_Click);
+            // 
+            // TelaLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.ClientSize = new System.Drawing.Size(352, 242);
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.ClientSize = new System.Drawing.Size(373, 347);
+            this.Controls.Add(this.ChamadaDeTelaCadastroLogin);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.btEntrar);
-            this.Controls.Add(this.btRecSenha);
-            this.Controls.Add(this.btCriar);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(368, 281);
-            this.MinimumSize = new System.Drawing.Size(368, 281);
-            this.Name = "Form1";
+            this.MaximumSize = new System.Drawing.Size(389, 386);
+            this.MinimumSize = new System.Drawing.Size(389, 386);
+            this.Name = "TelaLogin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -126,9 +141,10 @@ namespace Livraria_My_Books
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button btCriar;
-        private System.Windows.Forms.Button btRecSenha;
         private System.Windows.Forms.Button btEntrar;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label ChamadaDeTelaCadastroLogin;
     }
 }
 

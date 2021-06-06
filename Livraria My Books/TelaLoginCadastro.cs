@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace Livraria_My_Books
 {
-    public partial class TelaLogin : Form
+    public partial class TelaLoginCadastro : Form
     {
-        public TelaLogin()
+        public TelaLoginCadastro()
         {
             InitializeComponent();
-        }
-
-        private void ChamadaDeTelaCadastroLogin_Click(object sender, EventArgs e)
-        {
-            TelaLoginCadastro t1 = new TelaLoginCadastro();
-            t1.Show();
         }
     }
 }

@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria My Books", "Livraria My Books\Livraria My Books.csproj", "{AD09ACCB-6C36-461A-AFB2-2FE9047989BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livraria My Books", "Livraria My Books\Livraria My Books.csproj", "{AD09ACCB-6C36-461A-AFB2-2FE9047989BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App Livraria My Books", "App Livraria My Books", "{CAAB1E3A-A7F6-4987-8FC9-3555B9666229}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entidade", "Entidade", "{28809B74-E132-4EFF-BE74-21EC3F2C2CC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositorio", "Repositorio", "{2C68DD10-8B62-453F-9F01-24A1E8B43FAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serviços", "Serviços", "{69C631B6-D677-4A1D-8208-904581011909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooksEntidades", "MyBooksEntidades\MyBooksEntidades.csproj", "{8B4F45D9-9A25-40E7-9DF3-A8EEEEA0CC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooksRepositorios", "MyBooksRepositorios\MyBooksRepositorios.csproj", "{5DABC822-71F7-4E83-B781-AF2EB0FE010C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +27,22 @@ Global
 		{AD09ACCB-6C36-461A-AFB2-2FE9047989BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD09ACCB-6C36-461A-AFB2-2FE9047989BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD09ACCB-6C36-461A-AFB2-2FE9047989BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4F45D9-9A25-40E7-9DF3-A8EEEEA0CC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4F45D9-9A25-40E7-9DF3-A8EEEEA0CC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4F45D9-9A25-40E7-9DF3-A8EEEEA0CC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4F45D9-9A25-40E7-9DF3-A8EEEEA0CC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DABC822-71F7-4E83-B781-AF2EB0FE010C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DABC822-71F7-4E83-B781-AF2EB0FE010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DABC822-71F7-4E83-B781-AF2EB0FE010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DABC822-71F7-4E83-B781-AF2EB0FE010C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD09ACCB-6C36-461A-AFB2-2FE9047989BD} = {CAAB1E3A-A7F6-4987-8FC9-3555B9666229}
+		{8B4F45D9-9A25-40E7-9DF3-A8EEEEA0CC83} = {28809B74-E132-4EFF-BE74-21EC3F2C2CC4}
+		{5DABC822-71F7-4E83-B781-AF2EB0FE010C} = {2C68DD10-8B62-453F-9F01-24A1E8B43FAB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9BEB6306-8D9B-4522-88FB-117D2AE90B9D}
