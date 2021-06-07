@@ -1,0 +1,24 @@
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\My Books.exe.config
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\My Books.exe
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\My Books.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MetroFramework.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Form1.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Properties.Resources.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.csproj.GenerateResource.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.csproj.CopyComplete
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.exe
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.TelaCadastroUsuario.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\FluentValidation.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksEntidades.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksRepositorios.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksServiços.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksEntidades.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksRepositorios.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksServiços.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\FluentValidation.xml
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.TelaInicial.resources

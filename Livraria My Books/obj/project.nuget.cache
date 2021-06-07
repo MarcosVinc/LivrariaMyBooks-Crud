@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rQ7Pa2n4RxIpRT5FelTYSN7+5v7D+yec8KzbLMc8PYRDrl+cj8qAkFGH8b+ekd6z/vemhAS9OGXuvZ1/NhH6bg==",
+  "dgSpecHash": "xIf5qAHmN32kRSRMRLv9udvbAkPnxvc07tg6D6CPDgmq1XMZ60nb42j/dmcTIlhTE/GOmoMCIyYhF6OR8nN24g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\Livraria My Books\\Livraria My Books.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512"
+  ],
   "logs": []
 }

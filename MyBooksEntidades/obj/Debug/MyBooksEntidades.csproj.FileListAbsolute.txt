@@ -1,0 +1,6 @@
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\bin\Debug\MyBooksEntidades.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\bin\Debug\MyBooksEntidades.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\obj\Debug\MyBooksEntidades.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\obj\Debug\MyBooksEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\obj\Debug\MyBooksEntidades.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\obj\Debug\MyBooksEntidades.pdb

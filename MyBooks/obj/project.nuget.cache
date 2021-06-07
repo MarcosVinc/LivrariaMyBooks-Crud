@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "auBW0kIv0Wg+stljkOSwL/Y1nxAkkWXd2ctOjQQ2QM7nKF3MLiftEwM8/QvPjXyRHD448Rx7e+yefhHKOVImnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooks\\MyBooks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\metromodernui\\1.3.5\\metromodernui.1.3.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'MetroModernUI 1.3.5' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -17,3 +17,12 @@ C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.genruntimeconfig.cache
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria_My_Books.TelaLogin.resources
 C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria_My_Books.TelaLoginCadastro.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria_My_Books.Properties.Resources.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\MyBooksEntidades.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\MyBooksRepositorios.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\MyBooksServiços.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\MyBooksEntidades.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\MyBooksRepositorios.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\bin\Debug\net5.0-windows\MyBooksServiços.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\Livraria My Books\obj\Debug\net5.0-windows\Livraria My Books.csproj.CopyComplete

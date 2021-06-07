@@ -31,7 +31,17 @@
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj": {
+                "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj"
+              },
+              "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksRepositorios\\MyBooksRepositorios.csproj": {
+                "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksRepositorios\\MyBooksRepositorios.csproj"
+              },
+              "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksServiços\\MyBooksServiços.csproj": {
+                "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksServiços\\MyBooksServiços.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -43,6 +53,12 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,6 +79,54 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj",
+        "projectName": "MyBooksEntidades",
+        "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksRepositorios\\MyBooksRepositorios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksRepositorios\\MyBooksRepositorios.csproj",
+        "projectName": "MyBooksRepositorios",
+        "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksRepositorios\\MyBooksRepositorios.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj": {
+                "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksServiços\\MyBooksServiços.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksServiços\\MyBooksServiços.csproj",
+        "projectName": "MyBooksServiços",
+        "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksServiços\\MyBooksServiços.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj": {
+                "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

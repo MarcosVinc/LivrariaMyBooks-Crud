@@ -1,11 +1,93 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "FluentValidation/10.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
+      "MyBooksEntidades/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MyBooksEntidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyBooksEntidades.dll": {}
+        }
+      },
+      "MyBooksRepositorios/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "MyBooksEntidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyBooksRepositorios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyBooksRepositorios.dll": {}
+        }
+      },
+      "MyBooksServiços/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "MyBooksEntidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyBooksServiços.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyBooksServiços.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FluentValidation/10.2.3": {
+      "sha512": "R2w/E6jgg9RPSlg7JQSTHg6AWDwlOXARaV4ZUKrPJ1gi1e+oaBEcomxmo29j9BLZivkyQhOpAboJ9nKZS4/xYA==",
+      "type": "package",
+      "path": "fluentvalidation/10.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.2.3.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "MyBooksEntidades/1.0.0": {
+      "type": "project",
+      "path": "../MyBooksEntidades/MyBooksEntidades.csproj",
+      "msbuildProject": "../MyBooksEntidades/MyBooksEntidades.csproj"
+    },
+    "MyBooksRepositorios/1.0.0": {
+      "type": "project",
+      "path": "../MyBooksRepositorios/MyBooksRepositorios.csproj",
+      "msbuildProject": "../MyBooksRepositorios/MyBooksRepositorios.csproj"
+    },
+    "MyBooksServiços/1.0.0": {
+      "type": "project",
+      "path": "../MyBooksServiços/MyBooksServiços.csproj",
+      "msbuildProject": "../MyBooksServiços/MyBooksServiços.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "FluentValidation >= 10.2.3",
+      "MyBooksEntidades >= 1.0.0",
+      "MyBooksRepositorios >= 1.0.0",
+      "MyBooksServiços >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Vinicius\\.nuget\\packages\\": {},
@@ -38,7 +120,17 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj": {
+              "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksEntidades\\MyBooksEntidades.csproj"
+            },
+            "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksRepositorios\\MyBooksRepositorios.csproj": {
+              "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksRepositorios\\MyBooksRepositorios.csproj"
+            },
+            "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksServiços\\MyBooksServiços.csproj": {
+              "projectPath": "C:\\Users\\Vinicius\\source\\repos\\Livraria My Books\\MyBooksServiços\\MyBooksServiços.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -50,6 +142,12 @@
     "frameworks": {
       "net5.0-windows7.0": {
         "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[10.2.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

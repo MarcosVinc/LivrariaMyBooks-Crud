@@ -17,11 +17,12 @@ namespace MyBooksRepositorios
         public void Salvar(LoginUsuarios usuario)
         {
             //comando Sql --SqlComand
-            cmd.CommandText = "insert into Usuario values(@Identificador, @Logim,@Senha)";
+            cmd.CommandText = "insert into Usuarios values(@ID, @Logim,@Senha,@Email)";
             //parametros
-            cmd.Parameters.AddWithValue("@identificador", usuario.ID);
+            cmd.Parameters.AddWithValue("@ID", usuario.ID);
             cmd.Parameters.AddWithValue("@Logim", usuario.Login);
             cmd.Parameters.AddWithValue("@Senha", usuario.Senha);
+            cmd.Parameters.AddWithValue("@Email", usuario.Email);
             //conectar com banco -- Conexao
             try
             {
@@ -54,8 +55,9 @@ namespace MyBooksRepositorios
                 {
                     LoginUsuarios x = new LoginUsuarios();
                     x.ID = (string)read["ID"];
-                    x.Login = (string)read["Login"];
+                    x.Login = (string)read["Logim"];
                     x.Senha = (string)read["Senha"];
+                    x.Email = (string)read["Email"];
                     produto.Add(x);
                 }
 

@@ -12,15 +12,18 @@ namespace Livraria_My_Books
 {
     public partial class TelaLogin : Form
     {
+
         public TelaLogin()
         {
             InitializeComponent();
+
         }
 
         private void ChamadaDeTelaCadastroLogin_Click(object sender, EventArgs e)
         {
-            TelaLoginCadastro t1 = new TelaLoginCadastro();
-            t1.Show();
+            TelaLoginCadastro formUC = new TelaLoginCadastro();
+            this.Hide();
+            formUC.Show();
         }
     }
 }

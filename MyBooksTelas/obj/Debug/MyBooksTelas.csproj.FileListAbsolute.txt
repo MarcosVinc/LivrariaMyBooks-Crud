@@ -1,0 +1,4 @@
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksTelas\obj\Debug\MyBooksTelas.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksTelas\obj\Debug\MyBooksTelas.TelaLogin.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksTelas\obj\Debug\MyBooksTelas.csproj.GenerateResource.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksTelas\obj\Debug\MyBooksTelas.csproj.CoreCompileInputs.cache

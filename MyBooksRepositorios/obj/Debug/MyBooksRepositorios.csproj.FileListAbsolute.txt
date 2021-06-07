@@ -1,0 +1,9 @@
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\bin\Debug\MyBooksRepositorios.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\bin\Debug\MyBooksRepositorios.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\bin\Debug\MyBooksEntidades.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\bin\Debug\MyBooksEntidades.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\obj\Debug\MyBooksRepositorios.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\obj\Debug\MyBooksRepositorios.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\obj\Debug\MyBooksRepositorios.csproj.CopyComplete
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\obj\Debug\MyBooksRepositorios.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\obj\Debug\MyBooksRepositorios.pdb

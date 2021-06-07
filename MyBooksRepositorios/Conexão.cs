@@ -13,7 +13,7 @@ namespace MyBooksRepositorios
 
         public Conexao() 
         {
-            con.ConnectionString = @"";
+            con.ConnectionString = @"Data Source=DESKTOP-DL5R127;Initial Catalog=LivrariaMyBooks;Integrated Security=True";
         }
         public SqlConnection conectar() 
         {
