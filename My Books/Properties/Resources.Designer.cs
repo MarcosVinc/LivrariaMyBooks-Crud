@@ -83,6 +83,36 @@ namespace My_Books.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cancel {
+            get {
+                object obj = ResourceManager.GetObject("cancel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap diskette {
+            get {
+                object obj = ResourceManager.GetObject("diskette", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap diskette1 {
+            get {
+                object obj = ResourceManager.GetObject("diskette1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap outline_book_black_24dp {
             get {
                 object obj = ResourceManager.GetObject("outline_book_black_24dp", resourceCulture);
@@ -96,6 +126,16 @@ namespace My_Books.Properties {
         internal static System.Drawing.Bitmap outline_book_white_24dp {
             get {
                 object obj = ResourceManager.GetObject("outline_book_white_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outline_book_white_24dp1 {
+            get {
+                object obj = ResourceManager.GetObject("outline_book_white_24dp1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

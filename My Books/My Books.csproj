@@ -78,6 +78,12 @@
     <Compile Include="TelaInicial.Designer.cs">
       <DependentUpon>TelaInicial.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -96,6 +102,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="TelaInicial.resx">
       <DependentUpon>TelaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -139,6 +148,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\outline_book_white_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_book_white_24dp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diskette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diskette1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
