@@ -12,38 +12,28 @@ namespace My_Books
 {
     public partial class TelaInicial : Form
     {
-
-
+        
         public TelaInicial()
         {
             InitializeComponent();
-            Customizacao();
-
+            customizacao();
+            
         }
-        private void Customizacao() 
+
+        private void customizacao() 
         {
-            PainelSubMenuCadastro.Visible = false;
-            //panel3.Visible = false;
-            //panel4.Visible = false;
-         
+            SubPCadastro.Visible = false;
         }
-
-        private void HideSubMenu() 
+        private void hideSubMenu() 
         {
-            if (PainelSubMenuCadastro.Visible == true)
-                PainelSubMenuCadastro.Visible = false;
-           /* if (panel3.Visible == true)
-                panel3.Visible = false;
-            if (panel4.Visible == true)
-                panel4.Visible = false;*/
+            if (SubPCadastro.Visible == true)
+                SubPCadastro.Visible = false;
         }
-
         private void showSubMenu(Panel subMenu) 
         {
-
             if (subMenu.Visible == false)
             {
-                HideSubMenu();
+                hideSubMenu();
                 subMenu.Visible = true;
             }
             else 
@@ -54,13 +44,15 @@ namespace My_Books
 
         private void btCadastro_Click(object sender, EventArgs e)
         {
-            showSubMenu(PainelSubMenuCadastro);
+            this.Show();
+            showSubMenu(SubPCadastro);
+            
         }
 
-        private void btLivrosCadastro_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             userControl11.Show();
+                
         }
     }
-
 }
