@@ -18,7 +18,7 @@ namespace MyBooksServiços.Modelo
         public bool verificarLogin(string login, string senha) 
         {
 
-            cmd.CommandText = "select * from Usuarios where Logim = @Login and Senha = @Senha";
+            cmd.CommandText = "select * from Usuario where Logim = @Login and Senha = @Senha";
             cmd.Parameters.AddWithValue("@Login", login);
             cmd.Parameters.AddWithValue("@Senha", senha);
 

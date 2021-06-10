@@ -17,7 +17,7 @@ namespace MyBooksRepositorios
         public void Salvar(LoginUsuarios usuario)
         {
             //comando Sql --SqlComand
-            cmd.CommandText = "insert into Usuarios values(@ID, @Logim,@Senha,@Email)";
+            cmd.CommandText = "insert into Usuario values(@ID, @Logim,@Senha,@Email)";
             //parametros
             cmd.Parameters.AddWithValue("@ID", usuario.ID);
             cmd.Parameters.AddWithValue("@Logim", usuario.Login);
