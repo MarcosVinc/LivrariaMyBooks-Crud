@@ -54,9 +54,9 @@ namespace MyBooksRepositorios
 
         public List<Livros> Consulta()
         {
-            var produto = new List<Livros>();
+            var livro = new List<Livros>();
 
-            cmd.CommandText = "select * from Produtos";
+            cmd.CommandText = "select * from Livros";
 
             try
             {
@@ -73,7 +73,7 @@ namespace MyBooksRepositorios
                     x.Editora = (string)read["Editora"];
                     x.Edicao = int.Parse(read["Edicao"].ToString(), System.Globalization.CultureInfo.InvariantCulture);
                     x.Volume = int.Parse(read["Volume"].ToString(), System.Globalization.CultureInfo.InvariantCulture);
-                    produto.Add(x);
+                    livro.Add(x);
                 }
 
                 read.Close();
@@ -88,22 +88,22 @@ namespace MyBooksRepositorios
                 this.mensagem = e.Message;
             }
 
-            return produto;
+            return livro;
 
         }
 
         public void Alterar(Livros alterarLivro)
         {
             //comando Sql --SqlComand
-            cmd.CommandText = "update Livros set Atuacao = @Atuacao, Titulo = @Titulo, Autor = @Autor , Editora = @Editora, Edicao = @Edicao, Volume = @Volume where IdLivro = @IdLivro";
+            cmd.CommandText = "Update Livros set Atuacao = @atuacao, Titulo = @titulo, Autor = @autor , Editora = @editora, Edicao = @edicao, Volume = @volume where IdLivro = @idlivro";
             //parametros
-            cmd.Parameters.AddWithValue("@IdLivro", alterarLivro.IdLivro);
-            cmd.Parameters.AddWithValue("@Atuacao", alterarLivro.Atuacao);
-            cmd.Parameters.AddWithValue("@Titulo", alterarLivro.Titulo);
-            cmd.Parameters.AddWithValue("@Autor", alterarLivro.Autor);
-            cmd.Parameters.AddWithValue("@Editora", alterarLivro.Editora);
-            cmd.Parameters.AddWithValue("@Edicao", alterarLivro.Edicao);
-            cmd.Parameters.AddWithValue("@Volume", alterarLivro.Volume);
+            cmd.Parameters.AddWithValue("@idlivro", alterarLivro.IdLivro);
+            cmd.Parameters.AddWithValue("@atuacao", alterarLivro.Atuacao);
+            cmd.Parameters.AddWithValue("@titulo", alterarLivro.Titulo);
+            cmd.Parameters.AddWithValue("@autor", alterarLivro.Autor);
+            cmd.Parameters.AddWithValue("@editora", alterarLivro.Editora);
+            cmd.Parameters.AddWithValue("@edicao", alterarLivro.Edicao);
+            cmd.Parameters.AddWithValue("@volume", alterarLivro.Volume);
 
             //conectar com banco -- Conexao
             try

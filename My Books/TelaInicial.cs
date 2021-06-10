@@ -16,43 +16,61 @@ namespace My_Books
         public TelaInicial()
         {
             InitializeComponent();
-            customizacao();
-            
+            Customizacao();
         }
 
-        private void customizacao() 
+        private void Customizacao() 
         {
-            SubPCadastro.Visible = false;
+            SubPainelCadastro.Visible = false;
         }
-        private void hideSubMenu() 
+
+        private void EsconderSubMenu() 
         {
-            if (SubPCadastro.Visible == true)
-                SubPCadastro.Visible = false;
+            if (SubPainelCadastro.Visible == true)
+                SubPainelCadastro.Visible = false;
         }
-        private void showSubMenu(Panel subMenu) 
+
+        private void MostrarSubMenu(Panel subMenu) 
         {
             if (subMenu.Visible == false)
             {
-                hideSubMenu();
+                EsconderSubMenu();
                 subMenu.Visible = true;
             }
             else 
-            {
+            
                 subMenu.Visible = false;
-            }
+            
         }
 
         private void btCadastro_Click(object sender, EventArgs e)
         {
-            this.Show();
-            showSubMenu(SubPCadastro);
+            MostrarSubMenu(SubPainelCadastro);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            AddLivros addL = new AddLivros();
+            addL.Show();
             
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void TelaInicial_Load(object sender, EventArgs e)
         {
-            userControl11.Show();
-                
+            webBrowser1.Navigate("https://www.instagram.com/marcosl.xs/?hl=pt-br");
+        }
+
+        private void btTelaInicial_Click(object sender, EventArgs e)
+        {
+            this.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            FormAltExcLivros f2 = new FormAltExcLivros();
+            f2.Show();
         }
     }
 }

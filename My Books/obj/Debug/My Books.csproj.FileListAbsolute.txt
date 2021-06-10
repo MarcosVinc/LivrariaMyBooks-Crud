@@ -23,5 +23,5 @@ C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksServi
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\FluentValidation.xml
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.TelaInicial.resources
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\Siticone.Desktop.UI.dll
-C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.UExcluir.resources
-C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.UserControl1.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.AddLivros.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.FormAltExcLivros.resources
