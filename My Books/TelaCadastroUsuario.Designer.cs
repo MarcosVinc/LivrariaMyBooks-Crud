@@ -201,7 +201,7 @@ namespace My_Books
             this.MaximumSize = new System.Drawing.Size(364, 416);
             this.MinimumSize = new System.Drawing.Size(364, 416);
             this.Name = "TelaCadastroUsuario";
-            this.Style = MetroFramework.MetroColorStyle.Green;
+            this.Style = MetroFramework.MetroColorStyle.Yellow;
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

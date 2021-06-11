@@ -17,7 +17,7 @@ namespace My_Books
     public partial class TelaCadastroUsuario : MetroFramework.Forms.MetroForm
     {
         BindingList<string> errors = new BindingList<string>();
-        Form1 f1 = new Form1();
+        FormLogin f1 = new FormLogin();
 
         public TelaCadastroUsuario()
         {

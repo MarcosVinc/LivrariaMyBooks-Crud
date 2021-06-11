@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,8 @@ namespace MyBooksRepositorios
 
         public Conexao() 
         {
-            con.ConnectionString = @"Data Source=DESKTOP-DL5R127;Initial Catalog=LivrariaMyBooks;Integrated Security=True";
+             con.ConnectionString = @"Data Source=DESKTOP-DL5R127;Initial Catalog=LivrariaMyBooks;Integrated Security=True";
+             
         }
         public SqlConnection conectar() 
         {

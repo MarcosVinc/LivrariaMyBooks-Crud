@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace My_Books
 {
-    public partial class TelaInicial : Form
+    public partial class MyBooks : Form
     {
         
-        public TelaInicial()
+        public MyBooks()
         {
             InitializeComponent();
             Customizacao();
@@ -50,7 +50,6 @@ namespace My_Books
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Close();
             AddLivros addL = new AddLivros();
             addL.Show();
             
@@ -68,9 +67,14 @@ namespace My_Books
 
         private void button4_Click(object sender, EventArgs e)
         {
-            this.Close();
             FormAltExcLivros f2 = new FormAltExcLivros();
             f2.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Doação1etapa dç = new Doação1etapa();
+            dç.Show();
         }
     }
 }

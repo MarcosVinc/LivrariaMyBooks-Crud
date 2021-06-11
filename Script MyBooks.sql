@@ -17,5 +17,19 @@ GO
      ID varchar(255) PRIMARY KEY,
      Logim varchar(255),
      Senha varchar(255),
-	 Email varchar(255)
+	 Email varchar(255));
+GO
+use LivrariaMyBooks
+GO
+CREATE TABLE Requisitante
+(
+ IDrequisitante varchar(255) primary key,
+ Nome varchar(255),
+ Telefone varchar (255),
+ Email varchar (255),
+ Livro varchar (255),
+ Volume int
  );
+ GO
+
+ 

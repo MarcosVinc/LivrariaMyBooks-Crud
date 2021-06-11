@@ -18,7 +18,7 @@ namespace My_Books
     public partial class AddLivros : Form
     {
         BindingList<string> errors = new BindingList<string>();
-        TelaInicial ti = new TelaInicial();
+        MyBooks ti = new MyBooks();
         FormAltExcLivros AlEx = new FormAltExcLivros();
 
 
@@ -47,22 +47,22 @@ namespace My_Books
                 foreach (ValidationFailure failure in x.Errors)
                 {
                     errors.Add($"{failure.PropertyName} : {failure.ErrorMessage}");
-                    MessageBox.Show($"Um ou mais campos não foram preenchidos ");
+                    MessageBox.Show($"Mensagem do erro : {failure.ErrorMessage}");
+                        
                 }
             }
             else
             {
                 repositorio.Salvar(livro);
                 MessageBox.Show(repositorio.mensagem);
+                this.Close();
             }
-            this.Close();
-            ti.Show();
         }
 
         private void siticoneCircleButton2_Click(object sender, EventArgs e)
         {
             this.Close();
-            TelaInicial tl = new TelaInicial();
+            MyBooks tl = new MyBooks();
             tl.Show();
         }
 
@@ -107,6 +107,11 @@ namespace My_Books
             repositorio.Deletar(livro);
             MessageBox.Show(repositorio.mensagem);
             this.Close();           
+        }
+
+        private void AddLivros_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

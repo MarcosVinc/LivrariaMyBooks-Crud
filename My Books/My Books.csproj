@@ -18,7 +18,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\Binarios\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -67,11 +67,29 @@
     <Compile Include="AddLivros.Designer.cs">
       <DependentUpon>AddLivros.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Doacao0etapa.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Doacao0etapa.Designer.cs">
+      <DependentUpon>Doacao0etapa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doação1etapa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doação1etapa.Designer.cs">
+      <DependentUpon>Doação1etapa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doação2etapa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doação2etapa.Designer.cs">
+      <DependentUpon>Doação2etapa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
     </Compile>
     <Compile Include="FormAltExcLivros.cs">
       <SubType>Form</SubType>
@@ -96,8 +114,17 @@
     <EmbeddedResource Include="AddLivros.resx">
       <DependentUpon>AddLivros.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Doacao0etapa.resx">
+      <DependentUpon>Doacao0etapa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doação1etapa.resx">
+      <DependentUpon>Doação1etapa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doação2etapa.resx">
+      <DependentUpon>Doação2etapa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormAltExcLivros.resx">
       <DependentUpon>FormAltExcLivros.cs</DependentUpon>
@@ -268,6 +295,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\giphy %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_sentiment_very_satisfied_black_18dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_point_of_sale_black_18dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_sentiment_very_satisfied_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_sentiment_very_satisfied_black_18dp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baseline_account_circle_black_24dp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_keyboard_tab_black_18dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_skip_next_black_18dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline_skip_previous_black_18dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8960_f0e99829cc845c09f0ca561da74099fc2c917b82_mybook_l.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -5,7 +5,6 @@ C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MetroFramewo
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MetroFramework.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.csprojAssemblyReference.cache
-C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Form1.resources
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Properties.Resources.resources
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.csproj.GenerateResource.cache
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My Books.csproj.CoreCompileInputs.cache
@@ -21,7 +20,14 @@ C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksEntid
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksRepositorios.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\MyBooksServiços.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\FluentValidation.xml
-C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.TelaInicial.resources
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\bin\Debug\Siticone.Desktop.UI.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.AddLivros.resources
 C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.FormAltExcLivros.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Doação1etapa.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Doação2etapa.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.FormLogin.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.MyBooks.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Doacao0etapa.resources
+C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\My Books.exe.config
+C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\My Books.exe
+C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\My Books.pdb

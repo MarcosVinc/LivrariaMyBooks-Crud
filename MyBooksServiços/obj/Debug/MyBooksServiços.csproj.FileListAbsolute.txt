@@ -11,3 +11,5 @@ C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksServiços\obj\Debug\MyBo
 C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksServiços\obj\Debug\MyBooksServiços.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksServiços\bin\Debug\MyBooksRepositorios.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksServiços\bin\Debug\MyBooksRepositorios.pdb
+C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksServiços.dll
+C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksServiços.pdb

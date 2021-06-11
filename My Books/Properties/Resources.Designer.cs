@@ -63,9 +63,29 @@ namespace My_Books.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _8960_f0e99829cc845c09f0ca561da74099fc2c917b82_mybook_l {
+            get {
+                object obj = ResourceManager.GetObject("8960_f0e99829cc845c09f0ca561da74099fc2c917b82_mybook_l", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap baseline_account_circle_black_24dp {
             get {
                 object obj = ResourceManager.GetObject("baseline_account_circle_black_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap baseline_account_circle_black_24dp1 {
+            get {
+                object obj = ResourceManager.GetObject("baseline_account_circle_black_24dp1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -433,6 +453,26 @@ namespace My_Books.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap outline_keyboard_tab_black_18dp {
+            get {
+                object obj = ResourceManager.GetObject("outline_keyboard_tab_black_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outline_point_of_sale_black_18dp {
+            get {
+                object obj = ResourceManager.GetObject("outline_point_of_sale_black_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap outline_post_add_black_18dp {
             get {
                 object obj = ResourceManager.GetObject("outline_post_add_black_18dp", resourceCulture);
@@ -446,6 +486,56 @@ namespace My_Books.Properties {
         internal static System.Drawing.Bitmap outline_replay_black_18dp {
             get {
                 object obj = ResourceManager.GetObject("outline_replay_black_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outline_sentiment_very_satisfied_black_18dp {
+            get {
+                object obj = ResourceManager.GetObject("outline_sentiment_very_satisfied_black_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outline_sentiment_very_satisfied_black_18dp1 {
+            get {
+                object obj = ResourceManager.GetObject("outline_sentiment_very_satisfied_black_18dp1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outline_sentiment_very_satisfied_black_24dp {
+            get {
+                object obj = ResourceManager.GetObject("outline_sentiment_very_satisfied_black_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outline_skip_next_black_18dp {
+            get {
+                object obj = ResourceManager.GetObject("outline_skip_next_black_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap outline_skip_previous_black_18dp {
+            get {
+                object obj = ResourceManager.GetObject("outline_skip_previous_black_18dp", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

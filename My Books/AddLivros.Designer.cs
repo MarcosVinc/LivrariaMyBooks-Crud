@@ -186,7 +186,7 @@ namespace My_Books
             this.cbEditora.Location = new System.Drawing.Point(61, 280);
             this.cbEditora.Name = "cbEditora";
             this.cbEditora.Size = new System.Drawing.Size(533, 29);
-            this.cbEditora.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbEditora.Style = MetroFramework.MetroColorStyle.Yellow;
             this.cbEditora.TabIndex = 29;
             this.cbEditora.UseSelectable = true;
             // 
@@ -266,7 +266,7 @@ namespace My_Books
             this.cbAtuacao.Location = new System.Drawing.Point(61, 100);
             this.cbAtuacao.Name = "cbAtuacao";
             this.cbAtuacao.Size = new System.Drawing.Size(533, 29);
-            this.cbAtuacao.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbAtuacao.Style = MetroFramework.MetroColorStyle.Yellow;
             this.cbAtuacao.TabIndex = 24;
             this.cbAtuacao.UseSelectable = true;
             // 
@@ -282,6 +282,7 @@ namespace My_Books
             // 
             // siticoneCircleButton1
             // 
+            this.siticoneCircleButton1.BackColor = System.Drawing.Color.Transparent;
             this.siticoneCircleButton1.CheckedState.Parent = this.siticoneCircleButton1;
             this.siticoneCircleButton1.CustomImages.Parent = this.siticoneCircleButton1;
             this.siticoneCircleButton1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -289,9 +290,9 @@ namespace My_Books
             this.siticoneCircleButton1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.siticoneCircleButton1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.siticoneCircleButton1.DisabledState.Parent = this.siticoneCircleButton1;
-            this.siticoneCircleButton1.FillColor = System.Drawing.Color.DarkGreen;
+            this.siticoneCircleButton1.FillColor = System.Drawing.Color.Gold;
             this.siticoneCircleButton1.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.siticoneCircleButton1.ForeColor = System.Drawing.Color.White;
+            this.siticoneCircleButton1.ForeColor = System.Drawing.Color.Black;
             this.siticoneCircleButton1.HoverState.Parent = this.siticoneCircleButton1;
             this.siticoneCircleButton1.Location = new System.Drawing.Point(495, 463);
             this.siticoneCircleButton1.Name = "siticoneCircleButton1";
@@ -304,6 +305,7 @@ namespace My_Books
             // 
             // siticoneCircleButton2
             // 
+            this.siticoneCircleButton2.BackColor = System.Drawing.Color.Transparent;
             this.siticoneCircleButton2.CheckedState.Parent = this.siticoneCircleButton2;
             this.siticoneCircleButton2.CustomImages.Parent = this.siticoneCircleButton2;
             this.siticoneCircleButton2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -311,9 +313,9 @@ namespace My_Books
             this.siticoneCircleButton2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.siticoneCircleButton2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.siticoneCircleButton2.DisabledState.Parent = this.siticoneCircleButton2;
-            this.siticoneCircleButton2.FillColor = System.Drawing.Color.DarkGreen;
+            this.siticoneCircleButton2.FillColor = System.Drawing.Color.Gold;
             this.siticoneCircleButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.siticoneCircleButton2.ForeColor = System.Drawing.Color.White;
+            this.siticoneCircleButton2.ForeColor = System.Drawing.Color.Black;
             this.siticoneCircleButton2.HoverState.Parent = this.siticoneCircleButton2;
             this.siticoneCircleButton2.Location = new System.Drawing.Point(584, 463);
             this.siticoneCircleButton2.Name = "siticoneCircleButton2";
@@ -326,6 +328,7 @@ namespace My_Books
             // 
             // siticoneCircleButton3
             // 
+            this.siticoneCircleButton3.BackColor = System.Drawing.Color.Transparent;
             this.siticoneCircleButton3.CheckedState.Parent = this.siticoneCircleButton3;
             this.siticoneCircleButton3.CustomImages.Parent = this.siticoneCircleButton3;
             this.siticoneCircleButton3.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -333,9 +336,9 @@ namespace My_Books
             this.siticoneCircleButton3.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.siticoneCircleButton3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.siticoneCircleButton3.DisabledState.Parent = this.siticoneCircleButton3;
-            this.siticoneCircleButton3.FillColor = System.Drawing.Color.DarkGreen;
+            this.siticoneCircleButton3.FillColor = System.Drawing.Color.Gold;
             this.siticoneCircleButton3.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.siticoneCircleButton3.ForeColor = System.Drawing.Color.White;
+            this.siticoneCircleButton3.ForeColor = System.Drawing.Color.Black;
             this.siticoneCircleButton3.HoverState.Parent = this.siticoneCircleButton3;
             this.siticoneCircleButton3.Location = new System.Drawing.Point(495, 463);
             this.siticoneCircleButton3.Name = "siticoneCircleButton3";
@@ -349,6 +352,7 @@ namespace My_Books
             // 
             // siticoneCircleButton4
             // 
+            this.siticoneCircleButton4.BackColor = System.Drawing.Color.Transparent;
             this.siticoneCircleButton4.CheckedState.Parent = this.siticoneCircleButton4;
             this.siticoneCircleButton4.CustomImages.Parent = this.siticoneCircleButton4;
             this.siticoneCircleButton4.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -356,9 +360,9 @@ namespace My_Books
             this.siticoneCircleButton4.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.siticoneCircleButton4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.siticoneCircleButton4.DisabledState.Parent = this.siticoneCircleButton4;
-            this.siticoneCircleButton4.FillColor = System.Drawing.Color.DarkGreen;
+            this.siticoneCircleButton4.FillColor = System.Drawing.Color.Gold;
             this.siticoneCircleButton4.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.siticoneCircleButton4.ForeColor = System.Drawing.Color.White;
+            this.siticoneCircleButton4.ForeColor = System.Drawing.Color.Black;
             this.siticoneCircleButton4.HoverState.Parent = this.siticoneCircleButton4;
             this.siticoneCircleButton4.Location = new System.Drawing.Point(584, 463);
             this.siticoneCircleButton4.Name = "siticoneCircleButton4";
@@ -382,7 +386,7 @@ namespace My_Books
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Honeydew;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(679, 532);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.siticoneCircleButton4);
@@ -407,6 +411,7 @@ namespace My_Books
             this.Name = "AddLivros";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AddLivros";
+            this.Load += new System.EventHandler(this.AddLivros_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
