@@ -344,7 +344,7 @@ namespace My_Books
             this.Controls.Add(this.txtTituloLivro);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
+            this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(705, 496);
             this.MinimumSize = new System.Drawing.Size(705, 496);
             this.Name = "Doação2etapa";

@@ -63,7 +63,7 @@ namespace My_Books
         {
             this.Close();
             MyBooks tl = new MyBooks();
-            tl.Show();
+           
         }
 
         private void siticoneCircleButton3_Click(object sender, EventArgs e)

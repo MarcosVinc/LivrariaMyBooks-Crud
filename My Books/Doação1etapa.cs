@@ -38,5 +38,12 @@ namespace My_Books
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            var x = new RepositorioLivro();
+            var livro = x.Consulta();
+            siticoneDataGridView1.DataSource = livro;
+        }
     }
 }

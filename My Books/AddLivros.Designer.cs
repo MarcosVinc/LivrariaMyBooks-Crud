@@ -405,7 +405,7 @@ namespace My_Books
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.cbAtuacao);
             this.Controls.Add(this.metroLabel2);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(695, 571);
             this.MinimumSize = new System.Drawing.Size(695, 571);
             this.Name = "AddLivros";

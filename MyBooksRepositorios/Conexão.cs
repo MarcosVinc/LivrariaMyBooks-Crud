@@ -12,10 +12,12 @@ namespace MyBooksRepositorios
     {
         SqlConnection con = new SqlConnection();
 
+        public static System.Configuration.ConnectionStringSettingsCollection ConnectionStrings { get; }
+
         public Conexao() 
         {
-             con.ConnectionString = @"Data Source=DESKTOP-DL5R127;Initial Catalog=LivrariaMyBooks;Integrated Security=True";
-             
+            var connectionString = ConfigurationManager.ConnectionStrings["LivrariaMyBooks"].ConnectionString;
+            con.ConnectionString = connectionString;
         }
         public SqlConnection conectar() 
         {
@@ -33,6 +35,10 @@ namespace MyBooksRepositorios
                 con.Close();
             }
 
-        }
+        } 
     }
 }
+
+/*<add name="Configuração de conexão Sql"
+	 providerName="Data Source=DESKTOP-DL5R127;Initial Catalog=LivrariaMyBooks;Integrated Security=True"
+	 connectionString="Valid Connection String;" />*/

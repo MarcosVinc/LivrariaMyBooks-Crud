@@ -44,7 +44,7 @@ namespace My_Books
             // 
             this.metroGrid1.AllowUserToResizeRows = false;
             this.metroGrid1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.metroGrid1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.metroGrid1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.metroGrid1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.metroGrid1.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
             this.metroGrid1.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
@@ -130,7 +130,6 @@ namespace My_Books
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.metroGrid1);
             this.ForeColor = System.Drawing.Color.Black;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(705, 496);
             this.MinimumSize = new System.Drawing.Size(705, 496);

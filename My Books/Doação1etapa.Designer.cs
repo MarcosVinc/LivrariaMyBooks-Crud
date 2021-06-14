@@ -35,7 +35,9 @@ namespace My_Books
             this.siticoneDataGridView1 = new Siticone.Desktop.UI.WinForms.SiticoneDataGridView();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.siticoneDataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // siticoneDataGridView1
@@ -119,16 +121,28 @@ namespace My_Books
             this.label2.TabIndex = 30;
             this.label2.Text = "Livros Para doação";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::My_Books.Properties.Resources.outline_replay_black_18dp;
+            this.pictureBox1.Location = new System.Drawing.Point(641, 105);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(36, 36);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 31;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // Doação1etapa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(689, 457);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.siticoneDataGridView1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
+            this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(705, 496);
             this.MinimumSize = new System.Drawing.Size(705, 496);
             this.Name = "Doação1etapa";
@@ -136,6 +150,7 @@ namespace My_Books
             this.Text = "Doação2etapa";
             this.Load += new System.EventHandler(this.Doação2etapa_Load);
             ((System.ComponentModel.ISupportInitialize)(this.siticoneDataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -146,5 +161,6 @@ namespace My_Books
         private Siticone.Desktop.UI.WinForms.SiticoneDataGridView siticoneDataGridView1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

@@ -30,7 +30,6 @@ namespace My_Books
         private void InitializeComponent()
         {
             this.panel3 = new System.Windows.Forms.Panel();
-            this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.SubPainelCadastro = new System.Windows.Forms.Panel();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -40,6 +39,7 @@ namespace My_Books
             this.btTelaInicial = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.SubPainelCadastro.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -54,15 +54,6 @@ namespace My_Books
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(874, 36);
             this.panel3.TabIndex = 3;
-            // 
-            // webBrowser1
-            // 
-            this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webBrowser1.Location = new System.Drawing.Point(150, 36);
-            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
-            this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(874, 548);
-            this.webBrowser1.TabIndex = 4;
             // 
             // SubPainelCadastro
             // 
@@ -203,6 +194,15 @@ namespace My_Books
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
+            // webBrowser1
+            // 
+            this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webBrowser1.Location = new System.Drawing.Point(150, 36);
+            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser1.Name = "webBrowser1";
+            this.webBrowser1.Size = new System.Drawing.Size(874, 548);
+            this.webBrowser1.TabIndex = 4;
+            // 
             // MyBooks
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -212,8 +212,10 @@ namespace My_Books
             this.Controls.Add(this.webBrowser1);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.HelpButton = true;
             this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(1040, 623);
+            this.MinimumSize = new System.Drawing.Size(1040, 623);
             this.Name = "MyBooks";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MyBooks";
@@ -228,7 +230,6 @@ namespace My_Books
 
         #endregion
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.WebBrowser webBrowser1;
         public System.Windows.Forms.Button btTelaInicial;
         public System.Windows.Forms.Button btCadastro;
         private System.Windows.Forms.Panel SubPainelCadastro;
@@ -238,5 +239,6 @@ namespace My_Books
         public System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.WebBrowser webBrowser1;
     }
 }

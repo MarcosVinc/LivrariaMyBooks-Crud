@@ -9,4 +9,3 @@ C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\obj\Debug\M
 C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksRepositorios\obj\Debug\MyBooksRepositorios.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksRepositorios.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksRepositorios.pdb
-C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksRepositorios.dll.config

@@ -60,6 +60,8 @@ namespace My_Books
                 repositorio.Salvar(y);
                 MessageBox.Show(repositorio.mensagem);
                 this.Close();
+
+               
             }
 
         }
