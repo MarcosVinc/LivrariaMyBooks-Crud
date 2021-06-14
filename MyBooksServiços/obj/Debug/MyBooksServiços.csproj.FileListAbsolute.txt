@@ -13,3 +13,10 @@ C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksServiços\bin\Debug\MyBo
 C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksServiços\bin\Debug\MyBooksRepositorios.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksServiços.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksServiços.pdb
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\Binarios\MyBooksServiços.dll
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\Binarios\MyBooksServiços.pdb
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksServiços\obj\Debug\MyBooksServiços.csprojAssemblyReference.cache
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksServiços\obj\Debug\MyBooksServiços.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksServiços\obj\Debug\MyBooksServiços.csproj.CopyComplete
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksServiços\obj\Debug\MyBooksServiços.dll
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksServiços\obj\Debug\MyBooksServiços.pdb

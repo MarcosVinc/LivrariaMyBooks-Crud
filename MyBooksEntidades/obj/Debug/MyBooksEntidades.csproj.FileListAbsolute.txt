@@ -6,3 +6,9 @@ C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\obj\Debug\MyBo
 C:\Users\Vinicius\source\repos\Livraria My Books\MyBooksEntidades\obj\Debug\MyBooksEntidades.pdb
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksEntidades.dll
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\MyBooksEntidades.pdb
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\Binarios\MyBooksEntidades.dll
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\Binarios\MyBooksEntidades.pdb
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksEntidades\obj\Debug\MyBooksEntidades.csprojAssemblyReference.cache
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksEntidades\obj\Debug\MyBooksEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksEntidades\obj\Debug\MyBooksEntidades.dll
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\MyBooksEntidades\obj\Debug\MyBooksEntidades.pdb

@@ -31,3 +31,21 @@ C:\Users\Vinicius\source\repos\Livraria My Books\My Books\obj\Debug\My_Books.Doa
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\My Books.exe.config
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\My Books.exe
 C:\Users\Vinicius\source\repos\Livraria My Books\Binarios\My Books.pdb
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\Binarios\My Books.exe.config
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\Binarios\My Books.exe
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\Binarios\My Books.pdb
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My Books.csprojAssemblyReference.cache
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.AddLivros.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.Doacao0etapa.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.Doação1etapa.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.Doação2etapa.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.FormLogin.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.FormAltExcLivros.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.Properties.Resources.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.TelaCadastroUsuario.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My_Books.MyBooks.resources
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My Books.csproj.GenerateResource.cache
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My Books.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My Books.csproj.CopyComplete
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My Books.exe
+C:\Users\Vinicius\Source\Repos\LivrariaMyBooks-Crud\My Books\obj\Debug\My Books.pdb
