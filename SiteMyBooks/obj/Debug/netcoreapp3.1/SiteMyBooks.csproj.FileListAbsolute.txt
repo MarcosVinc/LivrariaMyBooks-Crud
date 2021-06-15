@@ -1,25 +1,11 @@
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.exe
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.deps.json
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.runtimeconfig.json
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.runtimeconfig.dev.json
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.dll
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.pdb
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.Views.dll
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\SiteMyBooks.Views.pdb
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.csprojAssemblyReference.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.AssemblyInfoInputs.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.AssemblyInfo.cs
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.csproj.CoreCompileInputs.cache
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.RazorAssemblyInfo.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.RazorAssemblyInfo.cs
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\staticwebassets\SiteMyBooks.StaticWebAssets.Manifest.cache
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\staticwebassets\SiteMyBooks.StaticWebAssets.xml
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\scopedcss\bundle\SiteMyBooks.styles.css
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.TagHelpers.input.cache
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.TagHelpers.output.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.RazorCoreGenerate.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
@@ -30,8 +16,22 @@ C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcor
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.RazorTargetAssemblyInfo.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.RazorTargetAssemblyInfo.cs
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.Views.pdb
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.dll
-C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.pdb
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.genruntimeconfig.cache
 C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\SiteMyBooks.csproj.CopyComplete
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.exe
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.deps.json
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.runtimeconfig.json
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.dll
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.pdb
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.Views.dll
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\bin\Debug\netcoreapp3.1\My Books.Views.pdb
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\My Books.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\staticwebassets\My Books.StaticWebAssets.Manifest.cache
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\staticwebassets\My Books.StaticWebAssets.xml
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\scopedcss\bundle\My Books.styles.css
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\My Books.TagHelpers.input.cache
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\My Books.TagHelpers.output.cache
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\My Books.Views.pdb
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\My Books.dll
+C:\Users\Vinicius\source\repos\LivrariaMyBooks-Crud\SiteMyBooks\obj\Debug\netcoreapp3.1\My Books.pdb

@@ -1,7 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>My Books</AssemblyName>
+    <ApplicationIcon></ApplicationIcon>
+    <RootNamespace>My Books</RootNamespace>
   </PropertyGroup>
 
 </Project>
